@@ -35,7 +35,7 @@
       <pluginExecutionFilter>
         <groupId>org.apache.openjpa</groupId>
         <artifactId>openjpa-maven-plugin</artifactId>
-        <versionRange>[2.2,3.0)</versionRange>
+        <versionRange>[2.2,4.0)</versionRange>
         <goals>
           <goal>enhance</goal>
           <goal>test-enhance</goal>
@@ -51,7 +51,7 @@
       <pluginExecutionFilter>
         <groupId>org.apache.openjpa</groupId>
         <artifactId>openjpa-maven-plugin</artifactId>
-        <versionRange>[2.2,3.0)</versionRange>
+        <versionRange>[2.2,4.0)</versionRange>
         <goals>
           <goal>schema</goal>
           <goal>sql</goal>
